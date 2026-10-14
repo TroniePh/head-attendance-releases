@@ -1,0 +1,33 @@
+{
+  "version": "1.2.1",
+  "release_date": "2026-10-14",
+  "update_method": "manual-download",
+  "release_url": "https://github.com/TroniePh/head-attendance-releases/releases/tag/v1.2.1",
+  "hardware_verified": false,
+  "assets": [
+    {
+      "name": "head-attendance-windows-update-v1.2.1.zip",
+      "bytes": 694968,
+      "sha256": "17e0f5f3bd6925ccdc834aa3b7fb74d572eafd036c6dac5ee016474ee7666865",
+      "download_url": "https://github.com/TroniePh/head-attendance-releases/releases/download/v1.2.1/head-attendance-windows-update-v1.2.1.zip"
+    },
+    {
+      "name": "head-attendance-synology-v1.2.1.zip",
+      "bytes": 216458,
+      "sha256": "5f4f20d01e6670b50c7265976c9b831ad6eaa2735d22b011a73e61a205fbe878",
+      "download_url": "https://github.com/TroniePh/head-attendance-releases/releases/download/v1.2.1/head-attendance-synology-v1.2.1.zip"
+    },
+    {
+      "name": "HUONG-DAN-CAP-NHAT.md",
+      "bytes": 4932,
+      "sha256": "cb2b653b41bbebef3aa285164a82bcb329ea2dc159725848a3b9d7a83686bda8",
+      "download_url": "https://github.com/TroniePh/head-attendance-releases/releases/download/v1.2.1/HUONG-DAN-CAP-NHAT.md"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 301,
+      "sha256": "5e6eef9e9e23f06494bb6ce618fe165c939e45b274e4a54ed37e0826f7327f98",
+      "download_url": "https://github.com/TroniePh/head-attendance-releases/releases/download/v1.2.1/SHA256SUMS.txt"
+    }
+  ]
+}
